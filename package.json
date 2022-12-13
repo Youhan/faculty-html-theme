@@ -1,0 +1,31 @@
+{
+  "name": "faculty-html-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d faculty-modern-onepage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owwwlab/faculty-html-theme.git"
+  },
+  "keywords": [
+    "html",
+    "theme",
+    "faculty",
+    "academic"
+  ],
+  "author": "Alireza Jahandideh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owwwlab/faculty-html-theme/issues"
+  },
+  "homepage": "https://github.com/owwwlab/faculty-html-theme#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
